@@ -1,0 +1,1 @@
+La computación en la nube (cloud computing) es una tecnología que permite el acceso remoto a softwares, almacenamiento de archivos y procesamiento de datos por medio de Internet, siendo así una alternativa a la ejecución en un ordenador personal o un servidor local.
